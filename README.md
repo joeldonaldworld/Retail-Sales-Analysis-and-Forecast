@@ -126,6 +126,8 @@ This project leverages predictive analytics to drive strategic business decision
   - Steady growth, fluctuating around 1,850 - 1,865 units.
   - February sees the highest sales (1,865 units).
   - No drastic spikes or drops.
+    
+![12 month forecast table](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Forecast%20for%20the%20next%2012%20months.png)
 
 ## Business Recommendations
 - **Inventory Optimization:** Given the steady growth in sales, businesses should ensure sufficient stock levels to meet demand, particularly in February, which sees a slight peak.
