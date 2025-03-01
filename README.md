@@ -72,6 +72,9 @@ This project leverages predictive analytics to drive strategic business decision
   ![Top customers](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20customers.png)
   
 - **Global Sales Analysis**
+  ![Top countries by sales](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20countries.png)
+
+  
 - **Global Transactions Analysis**
 
 ## Feature Engineering
