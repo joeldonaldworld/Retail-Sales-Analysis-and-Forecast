@@ -120,6 +120,8 @@ This project leverages predictive analytics to drive strategic business decision
 
 ## Sales Forecasting using ARIMA
 - **12-month sales forecast generated using ARIMA.**
+![Sales forecast](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Sales%20forecast.png)
+
 - **Key Observations:**
   - Steady growth, fluctuating around 1,850 - 1,865 units.
   - February sees the highest sales (1,865 units).
