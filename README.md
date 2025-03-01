@@ -59,10 +59,15 @@ This project leverages predictive analytics to drive strategic business decision
 - **Sales Trend Over Time**
   ![Sales trend](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Sales%20trend.png)
 
+
 - **Best-Selling Products**
   ![Best selling products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20selling%20products.png)
 
+
 - **Top Revenue-Generating Products**
+  ![Top revenue generating products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20revenue%20generating%20products.png)
+
+
 - **Customer Purchase Power**
 - **Global Sales Analysis**
 - **Global Transactions Analysis**
