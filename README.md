@@ -56,26 +56,23 @@ This project leverages predictive analytics to drive strategic business decision
 - **France:** 392 transactions.
 
 ## Visualizations
-- **Sales Trend Over Time**
-  ![Sales trend](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Sales%20trend.png)
+![Sales trend](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Sales%20trend.png)
 
 
-- **Best-Selling Products**
-  ![Best selling products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20selling%20products.png)
+![Best selling products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20selling%20products.png)
 
 
-- **Top Revenue-Generating Products**
-  ![Top revenue generating products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20revenue%20generating%20products.png)
+![Top revenue generating products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20revenue%20generating%20products.png)
 
 
-- **Customer Purchase Power**
-  ![Top customers](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20customers.png)
+![Top customers](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20customers.png)
   
-- **Global Sales Analysis**
-  ![Top countries by sales](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20countries.png)
 
-  
-- **Global Transactions Analysis**
+![Top countries by sales](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20countries.png)
+
+
+![Top countries by transaction](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/top%20countries%20by%20transactions.png)
+
 
 ## Feature Engineering
 ### Key Features Created:
