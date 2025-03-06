@@ -1,5 +1,4 @@
 # Retail-Sales-Analysis-and-Forecast
-# Retail Sales Analysis and Forecast
 
 ## Overview
 This project leverages predictive analytics to drive strategic business decisions by forecasting future sales trends and identifying high-value customers. Two models were implemented: a **Logistic Regression model** to predict high-spending customers and an **ARIMA time series model** to forecast sales for the next 12 months.
