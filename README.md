@@ -146,12 +146,17 @@ We observed that UK dominated in sales because they have a dominant customer bas
 ![12 month forecast table](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Forecast%20for%20the%20next%2012%20months.png)
 
 ## Business Recommendations
-- **Inventory Optimization:** Given the steady growth in sales, businesses should ensure sufficient stock levels to meet demand, particularly in February, which sees a slight peak.
-- **Pricing Strategy:** `UnitPrice` has the highest impact on high spenders. Businesses should experiment with pricing strategies to maximize revenue without discouraging purchases.
-- **Geographical Expansion:** The UK dominates in transactions and revenue, but potential growth opportunities exist in Germany and France.
-- **Targeted Promotions:** Customers with high `AvgSpendPerPurchase` and frequent transactions should be targeted for loyalty programs and exclusive offers.
-- **Product Strategy:** High revenue-generating products should be prioritized in marketing and inventory planning.
-- **Seasonal Adjustments:** Peak sales months (Nov-Dec) should be leveraged with promotional campaigns to maximize revenue.
+- **Leverage Peak Sales Insights to Sustain Growth:** Strengthen acquisition campaigns in months with historically high sales and offer volume-based incentives to encourage bulk purchases, especially among high-spending customers.
+
+- **Expand Internationally by Replicating UK’s Success:** Apply the UK’s successful strategies to Eire, Netherlands, Germany, and France, and monitor customer response and adjust strategies to optimize sales in these new regions.
+
+- **Strengthen Customer Retention Through Targeted Promotions:** Leverage referral programs to encourage high-value customers to bring in new buyers.
+
+- **Align Inventory Planning with Seasonal Sales Trends:** Launch seasonal marketing campaigns with limited-time offers and special promotions.
+
+- **Sustain Sales Growth Using Predictive Sales Forecasting:** Introduce new product lines based on emerging market trends and consumer behavior shifts.
+
+
 
 ## Conclusion
 This project provides actionable insights into customer behavior, sales forecasting, and revenue generation. The predictive models help businesses make data-driven decisions, optimize inventory, and enhance customer engagement.
