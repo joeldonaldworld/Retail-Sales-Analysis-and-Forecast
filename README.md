@@ -118,17 +118,17 @@ We observed that UK dominated in sales because they have a dominant customer bas
 ## Machine Learning Model: Predicting High-Spending Customers
 - **Model Used:** Logistic Regression
 - **Performance Metrics:**
-  - **Accuracy:** 89.82%
-  - **Precision:** 91.54%
-  - **Recall:** 89.82%
-  - **F1 Score:** 89.71%
+  - **Accuracy:** 90.27%
+  - **Precision:** 91.85%
+  - **Recall:** 90.27%
+  - **F1 Score:** 90.17%
 - **Overfitting Check:**
-  - **Training Accuracy:** 96.15%
-  - **Test Accuracy:** 89.82%
+  - **Training Accuracy:** 96.18%
+  - **Test Accuracy:** 90.27%
   - **Conclusion:** Possible overfitting detected.
 - **Hyperparameter Tuning:**
   - **Best Regularization Strength (`C`)**: 100
-  - **Tuned Test Accuracy:** 99.16%
+  - **Tuned Test Accuracy:** 99.66%
   - **Conclusion:** Overfitting significantly reduced.
  
   ## Feature Importance
