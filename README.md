@@ -58,7 +58,11 @@ This project leverages predictive analytics to drive strategic business decision
 ## Visualizations
 ![Sales trend](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Sales%20trend.png)
 
-![Monthly sales trend 2011]()
+![Monthly sales trend 2011](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Monthly%20sales%20trend2011.png)
+
+![Country contribution to sales 2010 vs 2011](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/sales%202010%20vs%202011.png)
+
+![New customers in 2011](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/new%20customers%202011.png)
 
 
 ![Best selling products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20selling%20products.png)
@@ -71,6 +75,8 @@ This project leverages predictive analytics to drive strategic business decision
   
 
 ![Top countries by sales](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20countries.png)
+
+![Customers distribution accross countries](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/customer%20distribution%20per%20country.png)
 
 
 ![Top countries by transaction](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/top%20countries%20by%20transactions.png)
