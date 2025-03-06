@@ -57,15 +57,19 @@ This project leverages predictive analytics to drive strategic business decision
 
 ## Visualizations
 ![Sales trend](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Sales%20trend.png)
+
 The trend reveals a hike in sales around 2011
 
 ![Monthly sales trend 2011](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Monthly%20sales%20trend2011.png)
+
 This visual uncovers the monthly sales trend around 2011. Seasonal demand contributed significantly to the sales boost.
 
 ![Country contribution to sales 2010 vs 2011](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/sales%202010%20vs%202011.png)
+
 UK had a serious boost in sales around 2011 - contributing significantly to the sales hike, also expansion in new international market was a big contribution.
 
 ![New customers in 2011](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/new%20customers%202011.png)
+
 There was a high rate of new customers in 2011, this contributed significantly to the sales hike.
 
 ![Best selling products](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20selling%20products.png)
@@ -80,6 +84,7 @@ There was a high rate of new customers in 2011, this contributed significantly t
 ![Top countries by sales](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Top%20countries.png)
 
 ![Customers distribution accross countries](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/customer%20distribution%20per%20country.png)
+
 We observed that UK dominated in sales because they have a dominant customer base as compared to other countries.
 
 ![Top countries by transaction](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/top%20countries%20by%20transactions.png)
