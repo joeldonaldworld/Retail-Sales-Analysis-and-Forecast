@@ -116,7 +116,7 @@ This project leverages predictive analytics to drive strategic business decision
   - **Conclusion:** Overfitting significantly reduced.
  
   ## Feature Importance
-  ![Feature importance](https://github.com/joeldonaldworld/Retail-Sales-Analysis-and-Forecast/blob/joeldonaldworld-patch-1/Feature%20importance.png)
+  ![]()
 
 ## Sales Forecasting using ARIMA
 - **12-month sales forecast generated using ARIMA.**
